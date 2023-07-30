@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CorvusCodex/Basketballai/blob/main/basketballailogo.png?raw=true">
+  <img src="https://github.com/CorvusCodex/Basketballai/blob/main/basketballai.png?raw=true">
 </p>
 
 ## BasketballAi
