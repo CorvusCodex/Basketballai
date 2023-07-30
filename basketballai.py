@@ -7,7 +7,7 @@ from art import text2art
 print("============================================================")
 ascii_art = text2art("BasketballAi")
 print(ascii_art)
-print("Bsketball game winner prediction artificial intelligence")
+print("Basketball game winner prediction artificial intelligence")
 print("============================================================")
 print("Created by: Corvus Codex")
 print("Github: https://github.com/CorvusCodex/")
