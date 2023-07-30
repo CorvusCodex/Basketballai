@@ -4,7 +4,7 @@
 
 ## BasketballAi
 
-BasketballAi is a basketball prediction artificial intelligence that uses machine learning to predict the winning team of the next football match.
+BasketballAi is a basketball prediction artificial intelligence that uses machine learning to predict the winning team of the next match.
 
 ## Installation
 
