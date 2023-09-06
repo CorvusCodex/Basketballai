@@ -6,6 +6,9 @@
 
 BasketballAi is a basketball prediction artificial intelligence that uses machine learning to predict the winning team of the next match.
 
+## For people without technical experience you can buy the compiled standalone application for windows from here:
+https://www.buymeacoffee.com/CorvusCodex/e/165454
+
 ## Installation
 
 To install BasketballAi, you will need to have Python 3.x and the following libraries installed:
